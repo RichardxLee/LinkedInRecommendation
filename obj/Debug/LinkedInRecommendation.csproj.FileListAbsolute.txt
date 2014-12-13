@@ -1,8 +1,9 @@
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.exe.config
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.exe
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.pdb
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.Properties.Resources.resources
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.csproj.GenerateResource.Cache
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.exe
-c:\users\richard\documents\visual studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.pdb
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.exe.config
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.exe
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.pdb
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.csprojResolveAssemblyReference.cache
 C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.FormMain.resources
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.Properties.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.exe
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.pdb

@@ -1,0 +1,3 @@
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Debug\LinkedInRecommendation.exe.config
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.exe
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Debug\LinkedInRecommendation.pdb
