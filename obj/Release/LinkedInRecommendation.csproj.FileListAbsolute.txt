@@ -1,0 +1,8 @@
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Release\LinkedInRecommendation.exe.config
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Release\LinkedInRecommendation.exe
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\bin\Release\LinkedInRecommendation.pdb
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Release\LinkedInRecommendation.FormMain.resources
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Release\LinkedInRecommendation.Properties.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Release\LinkedInRecommendation.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Release\LinkedInRecommendation.exe
+C:\Users\Richard\Documents\Visual Studio 2013\Projects\LinkedInRecommendation\LinkedInRecommendation\obj\Release\LinkedInRecommendation.pdb
